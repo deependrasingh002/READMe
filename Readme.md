@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
-<h3 align="center">Frontend Developer | SPFx | React | Power Platform</h3>
+<h3 align="center">Sharepoint Developer | SPFx | React | Power Platform</h3>
 
 ---
 
