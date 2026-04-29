@@ -36,9 +36,16 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,bootstrap,linux,c,cpp" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SPFx-SharePoint%20Framework-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,linux,c,cpp" />
+</p>
+
+
 
 **Power Platform**
 - ⚡ Power Automate  
@@ -47,13 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deependrasingh002&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deependrasingh002" />
-</p>
 
----
 
 ### 🐍 Contribution Snake
 <div align="center">
