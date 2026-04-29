@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Portfolio
-👉 [https://protfolio-eosin.vercel.app/](https://deependra-singh.vercel.app/)
+👉 [Deependra Singh](https://deependra-singh.vercel.app/)
 
 ---
 
